@@ -1,4 +1,4 @@
-﻿BOJ-AutoCommit
+BOJ-AutoCommit
 ==========
 [![](https://d2gd6pc034wcta.cloudfront.net/images/logo.png)](https://www.acmicpc.net)
 ----------
